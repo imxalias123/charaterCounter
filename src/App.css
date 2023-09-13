@@ -70,3 +70,14 @@ body {
   width: 100%;
   margin-top: 120px;
 }
+.unordered-List {
+  list-style-type: none;
+}
+.count-display {
+  margin-top: 100px;
+}
+.count {
+  color: #272c47;
+  font-size: 20px;
+  font-weight: 800;
+}
